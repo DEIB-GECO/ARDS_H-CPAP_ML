@@ -1,4 +1,4 @@
-# Machine Learning-based forecast of Helmet-CPAP therapy failure in AHRF and ARDS patients<sup>*</sup>
+# Machine learning-based forecast of Helmet-CPAP therapy failure in Acute Respiratory Distress Syndrome patients
 
 <br>
 
@@ -7,8 +7,6 @@ Riccardo Campi<sup>a</sup>, Paolo Colombo<sup>b</sup>, Antonio De Santis<sup>a</
 
 <sup>a</sup>Department of Electronics Information and Bioengineering, Politecnico di Milano, Piazza L. Da Vinci 32, Milano, MI, 20133, Italy<br>
 <sup>b</sup>Azienda Socio-Sanitaria Territoriale (ASST) della Brianza, Via Santi Cosma e Damiano 10, Vimercate, MB, 20871, Italy
-
-<sup>*</sup>Abbreviations: H-CPAP: Helmet-Continuous Positive Airway Pressure; AHRF: Acute Hypoxemic Respiratory Failure; ARDS: Acute Respiratory Distress Syndrome
 
 Email addresses: riccardo.campi@mail.polimi.it (Riccardo Campi), paolo.colombo@asst-brianza.it (Paolo Colombo), antonio.desantis@polimi.it (Antonio De Santis), paolo.scarpazza@asst-brianza.it (Paolo Scarpazza), marco.masseroli@polimi.it (Marco Masseroli)
 
