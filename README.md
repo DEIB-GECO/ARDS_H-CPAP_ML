@@ -29,7 +29,7 @@ on ARDS patients, using the electronic medical records (EMR) from the Pulmonolog
 ### Methods:
 The EMR provides demographic information, blood tests, and vital parameters of all hospitalizations of
 patients who are treated with H-CPAP and diagnosed with ARDS. This data is used to create a dataset of 720 records
-and 38 features. Different ML models such as Random Forest, XGBoost, and SVM, and Linear Regression with LASSO
+and 38 features. Different ML models such as Random Forest, XGBoost, SVM, and Linear Regression with LASSO
 are iteratively trained in a cross-validation fashion. Furthermore, we apply a classification threshold calibration method
 and a feature selection algorithm to improve predictions quality and reduce the number of used features.
 
