@@ -24,7 +24,7 @@ H-CPAP in managing patients with moderate-to-severe hypoxemia remains unclear, i
 in response to the emergence of the COVID-19 Pandemic.
 
 This study is conducted to develop a Machine Learning (ML) system that can predict the failure of H-CPAP therapy
-on ARDS patients using the electronic medical records (EMR) from the Pulmonology Department of Vimercate Hospital.
+on ARDS patients, using the electronic medical records (EMR) from the Pulmonology Department of Vimercate Hospital.
 
 ### Methods:
 The EMR provides demographic information, blood tests, and vital parameters of all hospitalizations of
