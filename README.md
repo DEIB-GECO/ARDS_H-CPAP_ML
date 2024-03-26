@@ -23,7 +23,7 @@ H-CPAP therapy is recommended as the initial treatment approach for mild ARDS. E
 H-CPAP in managing patients with moderate-to-severe hypoxemia remains unclear, its use has increased for these cases
 in response to the emergence of the COVID-19 Pandemic.
 
-This study is conducted to develop a Machine Learning (ML) system that can predict the failure of H-CPAP therapy
+This study is conducted to develop and evaluate a Machine Learning (ML) system that can predict the failure of H-CPAP therapy
 on ARDS patients, using the electronic medical records (EMR) from the Pulmonology Department of Vimercate Hospital.
 
 ### Methods:
