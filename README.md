@@ -27,7 +27,7 @@ Using the electronic medical records (EMR) from the Pulmonology Department of Vi
 to develop and evaluate a Machine Learning (ML) system able to predict the failure of H-CPAP therapy on ARDS patients.
 
 ### Methods:
-The EMR provides demographic information, blood tests, and vital parameters of all hospitalizations of
+The Vimercate Hospital EMR provides demographic information, blood tests, and vital parameters of all hospitalizations of
 patients who are treated with H-CPAP and diagnosed with ARDS. This data is used to create a dataset of 720 records
 and 38 features. Different ML models such as Random Forest, XGBoost, SVM, and Linear Regression with LASSO
 are iteratively trained in a cross-validation fashion. Furthermore, we apply a classification threshold calibration method
