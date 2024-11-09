@@ -36,7 +36,7 @@ The SVM and Fully-Connected Neural-Network models proved to be the most effectiv
 
 ## Code Availability
 
-Please refer to [ARDS_H-CPAP_ML] (https://github.com/riccamper/ARDS_H-CPAP_ML)
+Please refer to [ARDS_H-CPAP_ML](https://github.com/riccamper/ARDS_H-CPAP_ML)
 
 
 
