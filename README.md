@@ -32,7 +32,13 @@ a dataset of 622 records and 38 features. Different ML models such as SVM, Fully
 ### Results and Conclusions:
 The SVM and Fully-Connected Neural-Network models proved to be the most effective, achieving final accuracies of 95.19% and 94.65%, respectively. In terms of F1-score, the models scored 88.61% and 87.18%. Additionally, the SVM and XGBoost models perform well with a reduced number of features (23 and 13, respectively). The PaO2/FiO2 Ratio, C-Reactive Protein, and O2 Saturation resulted as the most important features, followed by Heartbeats, WBCs, and D-Dimer, in accordance with the clinical scientific literature.
 
-<br>
+<be>
+
+## Code Availability
+
+Please refer to [ARDS_H-CPAP_ML] (https://github.com/riccamper/ARDS_H-CPAP_ML)
+
+
 
 ## Reproducibility
 
